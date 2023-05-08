@@ -12,3 +12,6 @@ root.render(
     </Provider>
   </React.StrictMode>
 );
+
+// Project Link
+// `https://react-cart-jade.vercel.app/`
